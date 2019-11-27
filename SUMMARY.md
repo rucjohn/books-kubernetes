@@ -1,15 +1,11 @@
 # Table of contents
 
-* [前言]( README.md )
-* [第1章 Kubernetes 入门](1-Kubernetes-Introduction/README.md)
+* [前言](README.md)
+* [第1章 Kubernetes 入门](1-Kubernetes-Introduction/README.d)
     * [1.1 Kubernetes 是什么](1-Kubernetes-Introduction/1.1-What-is-Kubernetes.md)
     * [1.2 为什么要用 Kubernetes](1-Kubernetes-Introduction/1.2-Why-Kubernetes.md)
-* [第1章 Kubernetes 入门](di-yi-zhang-kubernetes-ru-men/README.md)
-  * [1.1 Kubernetes 是什么](di-yi-zhang-kubernetes-ru-men/1.1-kubernetes-shi-shen-me.md)
-  * [1.2 为什么要用 Kubernetes](di-yi-zhang-kubernetes-ru-men/1.2-wei-shen-me-yao-yong-kubernetes.md)
-  * [1.3 从一个简单的例子开始](di-yi-zhang-kubernetes-ru-men/1.3-cong-yi-ge-jian-dan-de-li-zi-kai-shi/README.md)
-    * [1.3.1 环境准备](di-yi-zhang-kubernetes-ru-men/1.3-cong-yi-ge-jian-dan-de-li-zi-kai-shi/1.3.1-huan-jing-zhun-bei.md)
-    * [1.3.2 启动 MySQL 服务](di-yi-zhang-kubernetes-ru-men/1.3-cong-yi-ge-jian-dan-de-li-zi-kai-shi/1.3.2-qi-dong-mysql-fu-wu.md)
-  * [1.4 Kubernetes 的基本概念和术语](di-yi-zhang-kubernetes-ru-men/1.4-kubernetes-de-ji-ben-gai-nian-he-shu-yu.md)
-* [第2章 Kubernetes 安装配置指南](di-er-zhang-kubernetes-an-zhuang-pei-zhi-zhi-nan.md)
-
+    * [1.3 从一个简单的例子开始](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/README.md)
+        * [1.3.1 环境准备](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/1.3.1-Environmental-preparation.md)
+        * [1.3.2 启动 MySQL 服务](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/1.3.2-Start-mysql-service.md)
+        * [1.3.3 启动 Tomcat 服务](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/1.3.3-Start-tomcat-service.md)
+        * [1.3.4 通过浏览器访问网页](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/1.3.4-Accessing-web-pages-through-a-browser.md)
