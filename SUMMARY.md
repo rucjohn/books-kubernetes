@@ -3,6 +3,7 @@
 * [前言]( README.md )
 * [第1章 Kubernetes 入门](1-Kubernetes-Introduction/README.md)
     * [1.1 Kubernetes 是什么](1-Kubernetes-Introduction/1.1-What-is-Kubernetes.md)
+    * [1.2 为什么要用 Kubernetes](1-Kubernetes-Introduction/1.2-Why-Kubernetes.md)
 * [第1章 Kubernetes 入门](di-yi-zhang-kubernetes-ru-men/README.md)
   * [1.1 Kubernetes 是什么](di-yi-zhang-kubernetes-ru-men/1.1-kubernetes-shi-shen-me.md)
   * [1.2 为什么要用 Kubernetes](di-yi-zhang-kubernetes-ru-men/1.2-wei-shen-me-yao-yong-kubernetes.md)
