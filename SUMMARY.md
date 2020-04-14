@@ -11,6 +11,6 @@
         * [1.3.4 通过浏览器访问网页](1-Kubernetes-Introduction/1.3-Start-with-a-simple-example/1.3.4-Accessing-web-pages-through-a-browser.md)
 * [第2章 Kubernetes 安装配置指南](2-Kubernetes-Installation-configuration-guide/README.md)
     * [2.1 系统要求](2-Kubernetes-Installation-configuration-guide/2.1-system-requirements.md)
-    
+    * [2.2 使用 kubeadm 工具快速安装 Kubernetes 集群](2-Kubernetes-Installation-configuration-guide/2.2-Quick-installation-of-kubernetes-cluster-using-kubeadm-tool/README.md)
     
     
