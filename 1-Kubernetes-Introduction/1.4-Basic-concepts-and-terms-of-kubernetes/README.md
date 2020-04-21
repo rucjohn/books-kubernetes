@@ -61,7 +61,7 @@ spec:
     - xxx
 ```
 
-在 Kubernetes 1.8 中，资源对象中的很多 Alpha、Beta 版本的 Annotations 被取消，升有成了常规定义方式，在学习 Kubernetes 的过程中需要特别注意。
+在 Kubernetes 1.8 中，资源对象中的很多 Alpha、Beta 版本的 Annotations 被取消，升级成了常规定义方式，在学习 Kubernetes 的过程中需要特别注意。
 
 下面介绍 Kubernetes 中重要的资源对象。
 
