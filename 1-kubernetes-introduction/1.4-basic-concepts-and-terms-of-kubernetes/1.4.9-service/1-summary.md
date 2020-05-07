@@ -39,6 +39,7 @@ kubectl create -f tomcat-service.yaml
 我们之前在 tomcat-deployment.yaml 里定义的 Tomcat 的 Pod 刚好拥有这个标签，所以刚才创建的 tomcat-service 已经对应一个 Pod 实例，运行下面的命令可以查看 tomcat-service 的 Endpoint 列表
 * `10.244.2.13` 是 Pod IP 地址
 * `8080` 是 Container 暴露的端口
+
 ```bash
 kubectl get endpoints
 ```
