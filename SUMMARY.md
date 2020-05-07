@@ -20,6 +20,9 @@
     * [1.4.6 Deployment](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.6-deployment.md)
     * [1.4.7 Horizontal Pod Autoscaler](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.7-horizontal-pod-autoscaler.md)
     * [1.4.8 StatefulSet](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.8-statefulset.md)
+    * [1.4.9 Service](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/README.md)
+      * [1. 概述](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/1-summary.md)
+
 
     
     
