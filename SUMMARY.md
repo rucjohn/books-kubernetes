@@ -17,6 +17,7 @@
     * [1.4.3 Pod](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.3-pod.md)
     * [1.4.4 Label](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.4-label.md)
     * [1.4.5 Replication Controller](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.5-replication-controller.md)
+    * [1.4.6 Deployment](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.6-deployment.md)
 
     
     
