@@ -31,7 +31,7 @@
     * [1.4.14 Annotation](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.14-annotation.md)
     * [1.4.15 ConfigMap](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.15-configmap.md)
     * [1.4.15 总结](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.16-conclude.md)
-* [第2章 Kubernetes 入门](2-kubernetes-installation-configuration-guide/README.md)
+* [第2章 Kubernetes 安装配置指南](2-kubernetes-installation-configuration-guide/README.md)
   * [2.1 系统要求](2-kubernetes-installation-configuration-guide/2.1-system-requirements.md)
     
     
