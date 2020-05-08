@@ -23,6 +23,7 @@
     * [1.4.9 Service](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/README.md)
       * [1. 概述](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/1-summary.md)
       * [2. Kubernetes 的服务发现机制](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/2-kubernetes-service-discovery-mechanism.md)
+      * [3. 外部系统访问 Service 的问题](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.9-service/3-problem.md)
 
 
     
