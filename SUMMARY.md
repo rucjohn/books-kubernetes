@@ -27,6 +27,7 @@
     * [1.4.10 Job](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.10-job.md)
     * [1.4.11 Volume](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.11-volume.md)
     * [1.4.12 Persistent Volume](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.12-persistent-volume.md)
+    * [1.4.13 Namespace](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.13-namespace.md)
 
     
     
