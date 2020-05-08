@@ -30,6 +30,7 @@
     * [1.4.13 Namespace](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.13-namespace.md)
     * [1.4.14 Annotation](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.14-annotation.md)
     * [1.4.15 ConfigMap](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.15-configmap.md)
+    * [1.4.15 总结](1-kubernetes-introduction/1.4-basic-concepts-and-terms-of-kubernetes/1.4.16-conclude.md)
 
     
     
