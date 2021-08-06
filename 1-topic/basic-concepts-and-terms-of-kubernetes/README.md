@@ -1,4 +1,4 @@
-# 1.4 Kubernetes 的基本概念和术语
+# Kubernetes 的基本概念和术语
 
 Kubernetes 中的大部分概念如 Node、Pod、Replication Controller、Service 等都可以被看作一种资源对象，几乎所有资源对象都可以通过 Kubernetes 提供的 kubectl 工具（或者 API 编程调用）执行增、删、改、查等操作并将其保存在 etcd 中持久化存储。从这个角度来看，Kubernetes 其实是一个高度自动化的资源控制系统，它通过跟踪对比 etcd 库里保存的『资源期望状态』与当前环境中的『实际资源状态』的差异来实现自动控制和自动纠错的高级功能。
 
