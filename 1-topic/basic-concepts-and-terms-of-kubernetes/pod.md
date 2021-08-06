@@ -1,4 +1,4 @@
-# 1.4.3 Pod
+# Pod
 
 Pod 是 Kubernetes 最重要的基本概念，如下图所示是 Pod 的组成示意图，我们看到每个 Pod 都有一个特殊的被称为『根容器』的 Pause 容器。Pause 容器对应的镜像属于 Kubernetes 平台的一部分，除了 Pause 容器，每个 Pod 还包含一个或多个紧密相关的用户业务容器。
 
