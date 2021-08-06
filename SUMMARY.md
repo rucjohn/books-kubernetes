@@ -36,6 +36,6 @@
   * [2.2 使用 kubeadm 工具快速安装 Kubernetes 集群](2-kubernetes-installation-configuration-guide/2.2-quick-installation-of-kubernetes-cluster-using-kubeadm-tool/README.md)
 * [第5章 核心组件运行机制](5-topic/README.md)
   * [API Server 原理解析](5-topic/APIServer_principle_analysis/README.md)
-    
+  * [Controller Manager 原理解析](5-topic/Controller_Manager_principle_analysis/README.md)
     
     
