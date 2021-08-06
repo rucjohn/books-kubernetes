@@ -34,6 +34,6 @@
 * [第5章 核心组件运行机制](5-topic/README.md)
   * [API Server 原理解析](5-topic/APIServer_principle_analysis/README.md)
   * [Controller Manager 原理解析](5-topic/Controller_Manager_principle_analysis/README.md)
-  * [Schduler 原理解析](5-topic/Scheduler_principle_analysis/README.md)
+  * [Schduler 原理解析](5-topic/Scheduler_principle_analysis.md)
   * [Kubelet 运行机制解析](5-topic/Kubelet_operation_mechanism_analysis/README.md)
     
