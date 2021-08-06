@@ -1,4 +1,4 @@
-# 1.1 Kubernetes 是什么
+# Kubernetes 是什么
 
 ## Kubernetes是什么？
 
