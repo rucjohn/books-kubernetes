@@ -1,5 +1,3 @@
-1-topic/basic-concepts-and-terms-of-kubernetes/conclude.md
-
 # Service
 
 ## 概述
@@ -193,5 +191,3 @@ tcp        0      0 0.0.0.0:31002           0.0.0.0:*               LISTEN      
 ![](../../../gitbook/assets/topic_1/1-15.jpg)
 
 上图 Load balancer 组件独立于 Kubernetes 集群之外，通常是由一个硬件的负载均衡器，或者是以软件方式实现的，例如 HAProxy 或 Nginx。对于每个 Service，我们通常需要配置一个对应的 Load balancer 实例来转发流量到后端的 Node 上，这的确增加了工作量及出错的概率。于是 Kubernetes 提供了自动化的解决方案，如果我们的集群运行在谷歌的公有云 GCE 上，那么只要把 Service 的 type=NodePort 改为 type=LoadBalancer，Kubernetes 就会自动创建一个对应的 Load balancer 实例并返回它的 IP 地址提供外部客户端使用。其他公有云只要实现了支持此特性的驱动，则也可以达到上述目的。此外裸机上的类似机制（Bare Metra Service Load Balancers）也在被开发。
-
-
