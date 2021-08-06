@@ -1,4 +1,4 @@
-# 1.4.2 Node
+# Node
 
 除了 Master，Kubernetes 集群中的其他机器被称为 Node 节点，在较早的版本中也被称为 Minion。与 Master 一样，Node 节点可以是一台物理机，也可以是一台虚拟机。Node 节点才是 Kubernetes 集群中的工作负载节点，每个 Node 都会被 Master 分配一些工作负载（Docker 容器），当某个 Node 宕机时，其上的工作负载会被 Master 自动转移到其他节点上。
 
