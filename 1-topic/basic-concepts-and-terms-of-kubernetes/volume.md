@@ -1,4 +1,4 @@
-# 1.4.11 Volume
+# Volume
 
 Volume（存储卷）是 Pod 中能够被多个容器访问的共享目录。Kubernetes 的 Volume 概念、用途和目的与 Docker 的 Volume 比较类似，但两者不能等价。
 * 首先，Kubernetes 中的 Volume 被定义在 Pod 上，然后被一个 Pod 里的多个容器挂载到具体的文件目录下；
