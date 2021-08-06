@@ -1,4 +1,4 @@
-# 1.2 为什么要用 Kubernetes
+# 为什么要用 Kubernetes
 
 使用 Kubernetes 的理由很多，最重要的理由是，IT 行业从来都是由新技术驱动的。
 
