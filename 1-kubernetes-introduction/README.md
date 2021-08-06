@@ -1,2 +1,2 @@
-# 第1章 Kubernetes 入门
+# Kubernetes 入门
 
