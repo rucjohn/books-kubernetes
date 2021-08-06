@@ -1,4 +1,4 @@
-# 1.4.8 StatefulSet
+# StatefulSet
 
 ## 有状态的服务
 
