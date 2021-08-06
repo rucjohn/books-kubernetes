@@ -1,4 +1,4 @@
-# 1.3.3 启动 Tomcat 服务
+# 启动 Tomcat 服务
 
 上面定义和启动了 MySQL 服务，接下来采用同样的步骤完成 Tomcat 应用的启动过程。首先，创建对应的 RC 文件 `myweb-rc.yaml`，内容如下：
 
