@@ -1,4 +1,4 @@
-# 1.4.7 Horizontal Pod Autoscaler
+# Horizontal Pod Autoscaler
 
 通过手工执行 `kubectl scale` 命令，我们可以实现 Pod 扩容或缩容。如果仅仅到此为止，显然不符合谷歌对 Kubernetes 的定位目标 --- 自动化、智能化。在谷歌看来，分布式系统要能够根据当前负载的变化自动触发水平扩容或缩容，因为这一过程可能是频繁发生的、不可预料的，所以手动控制的方式是不现实的。
 
