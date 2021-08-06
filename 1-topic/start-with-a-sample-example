@@ -1,3 +1,0 @@
-# 环境准备
-
-首先，安装 Kubernetes 和下载相关镜像，本书建议采用 VirtualBox 或者 VMware Workstation 在本机虚拟一个64位的 CentOS 7 虚拟机作为学习环境。虚拟机采用NAT的网络模式以便连接外网，然后使用 `kubeadm` 快速安装一个 Kubernetes 集群（安装步骤详见 2.2 节的说明）。之后就可以在这个 Kubernetes 集群中进行练习了。
