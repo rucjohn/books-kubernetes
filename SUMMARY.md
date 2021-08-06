@@ -27,7 +27,7 @@
     * [1.4.13 Namespace](1-topic/basic-concepts-and-terms-of-kubernetes/namespace.md)
     * [1.4.14 Annotation](1-topic/basic-concepts-and-terms-of-kubernetes/annotation.md)
     * [1.4.15 ConfigMap](1-topic/basic-concepts-and-terms-of-kubernetes/configmap.md)
-    * [1.4.15 总结](1-topic/basic-concepts-and-terms-of-kubernetes/conclude.md)
+    * [1.4.16 总结](1-topic/basic-concepts-and-terms-of-kubernetes/conclude.md)
 * [第2章 Kubernetes 安装配置指南](2-kubernetes-installation-configuration-guide/README.md)
   * [2.1 系统要求](2-kubernetes-installation-configuration-guide/2.1-system-requirements.md)
   * [2.2 使用 kubeadm 工具快速安装 Kubernetes 集群](2-kubernetes-installation-configuration-guide/2.2-quick-installation-of-kubernetes-cluster-using-kubeadm-tool/README.md)
