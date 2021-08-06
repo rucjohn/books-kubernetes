@@ -35,7 +35,7 @@
   * [2.1 系统要求](2-kubernetes-installation-configuration-guide/2.1-system-requirements.md)
   * [2.2 使用 kubeadm 工具快速安装 Kubernetes 集群](2-kubernetes-installation-configuration-guide/2.2-quick-installation-of-kubernetes-cluster-using-kubeadm-tool/README.md)
 * [第5章 核心组件运行机制](5-topic/README.md)
-  * [Kubernetes API Server 原理解析](5-topic/APIServer_principle_analysis/README.md)
+  * [API Server 原理解析](5-topic/APIServer_principle_analysis/README.md)
     
     
     
