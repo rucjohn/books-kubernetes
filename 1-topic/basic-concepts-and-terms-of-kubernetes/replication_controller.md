@@ -1,4 +1,4 @@
-# 1.4.5 Replication Controller
+# Replication Controller
 
 在上一节的例子中已经对 Replication Controller（简称 RC）的定义和作用做了一些说明，本节对 RC 的概念进行深入描述。
 
