@@ -1,4 +1,4 @@
-# 1.4.12 Persistent Volume
+# Persistent Volume
 
 之前提供的 Volume 是被定义在 Pod 上的，属于计算资源的一部分，而实际上，网络存储是相对独立于计算资源而存在的一种实体资源。比如在使用虚拟机的情况下，我们通常会先定义一个网络存储，然后从中划出一个『网盘』并挂接到虚拟机上。Persistent Volume（PV）和与之相关联的 Persistent Volume Claim（PVC）也起到了类似的作用。
 
